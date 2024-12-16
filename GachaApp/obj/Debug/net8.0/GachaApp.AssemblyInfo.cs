@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GachaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2271c008963835d6d5beb16281dedac9ff4dfa7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86ccfa52a65b39d799f6a9de945aa31bc235ab21")]
 [assembly: System.Reflection.AssemblyProductAttribute("GachaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GachaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
